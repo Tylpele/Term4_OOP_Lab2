@@ -1,0 +1,17 @@
+.text-center {
+    text-align: center;
+}
+
+.navbar-custom {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+    color: white;
+}
+
+.navbar-custom .nav-link:hover {
+    color: #d4edda;
+}
